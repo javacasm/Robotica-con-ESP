@@ -16,8 +16,8 @@
     * Servidor HTTP de ficheros [Ejemplo por LuisLlamas](https://github.com/luisllamasbinaburo/ESP8266-Examples/tree/master/09_Server_SPIFFS)
 1. Ejemplo 1: Mostrar datos meteo
 1. Interaccion web
-    * formularios y botones
-    * request
+    * Formularios y botones
+    * Uso de request
     * API Rest
 1. Ejemplo 2: Control de led RGB
 1. Ejemplo 3: Control de [smartCar](https://github.com/javacasm/SmartCar)
