@@ -23,7 +23,11 @@
 1. Ejemplo 3: Control de [smartCar](https://github.com/javacasm/SmartCar)
     * [Ejemplo 1](https://www.hackster.io/alankrantas/simple-nodemcu-wifi-controlled-car-esp8266-c5491e)
     * [Ejemplo 2](https://www.instructables.com/WiFi-Car-Using-NodeMCU/)
-
+1. Comunicacion I2C
+    * [Ejemplo 1](https://diyprojects.io/getting-started-i2c-bus-arduino-esp8266-esp32-wire-library/#.YOgrnKL7QuU)
+    * [Enviar datos](https://www.arduino.cc/en/Tutorial/LibraryExamples/MasterReader)
+    * [Recibir datos](https://www.arduino.cc/en/Tutorial/LibraryExamples/MasterWriter)
+    * [Documentación](https://randomnerdtutorials.com/esp32-i2c-communication-arduino-ide/)
 ## Recursos
 
 [Ejemplos de Luis Llamas para ESP32](https://github.com/luisllamasbinaburo/ESP32-Examples)
